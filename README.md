@@ -1,6 +1,6 @@
 # hello-word
 
-Hi!
+Hi everybody!
 
 Bakary Diaby,
 
